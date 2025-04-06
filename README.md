@@ -13,11 +13,9 @@
 
 > SWI-Prolog .
 
-> Investigación personal .
-
 ###### Nota:
 
-El archivo **practica.txt** almacena toda la lista de vehículos. 
+En el archivo **prolog.pl** se encuentra todo el código, y la lista de vehículos que se utilizaron como base de datos. 
 
 #### Video del código 
 
