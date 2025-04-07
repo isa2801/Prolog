@@ -19,4 +19,4 @@ En el archivo **prolog.pl** se encuentra todo el código, y la lista de vehícul
 
 #### Video del código 
 
-[![Vídeo](https://www.youtube.com/watch?v=0tBdRybHgcA&ab_channel=IsabellaOcampo)
+(https://www.youtube.com/watch?v=0tBdRybHgcA&ab_channel=IsabellaOcampo)
